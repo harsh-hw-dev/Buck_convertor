@@ -101,8 +101,7 @@ Electronics & Power Electronics Engineer
 Specialization in: SMPS Design, Embedded Hardware, High-Speed PCB, Power Systems  
 
 📧 Email: saini.harsh.in@gmail.com  
-🔗 LinkedIn:[ Add your LinkedIn profile link here  
-](https://www.linkedin.com/in/sainiharsh-in/)
+🔗 LinkedIn:(https://www.linkedin.com/in/sainiharsh-in/)
 ---
 
 ## ⭐ Support & Usage
